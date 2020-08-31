@@ -1,0 +1,16 @@
+Body{
+    color:black;
+    background-color: darkslategray;
+    font-family: 'Russo One', sans-serif;
+}
+.nav1{
+    border:3px solid gray;
+}
+
+.a1{
+    font-size:medium;
+}
+
+.a2{
+    font-size: large;
+}
